@@ -1,0 +1,39 @@
+{
+	"item" : [
+		{
+			"id" : "goldkey",
+			"name" : "Gold Key",
+			"invimage" : "invkey.png",
+			"worldimage" : "key.png"
+		},
+		{	"id": "cable",
+			"name": "Power Cable",
+			"invimage" : "invcord.png",
+			"worldimage" : "cord.png"
+		},
+		{
+			"id": "squarekey",
+			"name": "Plastic Square",
+			"invimage" : "invsquare.png",
+			"worldimage" : "square.png"
+		},
+		{
+			"id" : "circlekey",
+			"name" : "Plastic Circle",
+			"invimage" : "invcircle.png",
+			"worldimage" : "circle.png"
+		},
+		{
+			"id" : "starkey",
+			"name": "Plastic Star",
+			"invimage" : "invstar.png",
+			"worldimage" : "star.png"
+		},
+		{
+			"id" : "generic",
+			"name": "Generic Item",
+			"invimage": "invgeneric.png",
+			"worldimage": "invgeneric.png"
+		}
+	]
+}
